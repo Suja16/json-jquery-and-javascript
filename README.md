@@ -1,4 +1,3 @@
-Sure! Here's a very straightforward and no-nonsense README file you can use on GitHub to guide folks through using your solution to complete the Coursera JSON, jQuery, and JavaScript course. I've written it with clear steps so even someone with minimal experience can follow along easily.
 
 ---
 
